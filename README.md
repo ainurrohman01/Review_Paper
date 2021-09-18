@@ -41,7 +41,7 @@ Review paper ini berisi ulasan paper tentang Artificial Intelligence (Computer V
 <br> Code: 
 
 5. YOLO5
-<br> Paper: https://arxiv.org/pdf/2108.11539.pdf
+<br> Paper: [TPH-YOLOv5: Improved YOLOv5 Based on Transformer Prediction Head forObject Detection on Drone-captured Scenarios](https://arxiv.org/pdf/2108.11539.pdf)
 <br> Code: [ultralytics](https://github.com/ultralytics/yolov5)
 
 6. YOLOR (You Only Learn One Representation)
