@@ -25,12 +25,12 @@ Review paper ini berisi ulasan paper tentang Artificial Intelligence (Computer V
 
 1. YOLO (You Only Look Once)
 <br> Paper:  [You Only Look Once:Unified, Real-Time Object Detection](https://arxiv.org/pdf/1506.02640v5.pdf)
-<br> All: [Papers With Code](https://paperswithcode.com/paper/you-only-look-once-unified-real-time-object)
+<br> [Papers With Code](https://paperswithcode.com/paper/you-only-look-once-unified-real-time-object)
 
 2. YOLO2
 <br> Paper: [YOLO9000:Better, Faster, Stronge](https://arxiv.org/abs/1612.08242v1)
 <br> Code: (pytorch) - [Yolo2](https://github.com/longcw/yolo2-pytorch)
-<br> All: [Papers With Code](https://paperswithcode.com/paper/yolo9000-better-faster-stronger)
+<br> [Papers With Code](https://paperswithcode.com/paper/yolo9000-better-faster-stronger)
 
 3. YOLO3
 <br> Paper: [YOLOv3: An Incremental Improvement](https://arxiv.org/abs/1804.02767v1)
@@ -48,4 +48,7 @@ Review paper ini berisi ulasan paper tentang Artificial Intelligence (Computer V
 <br> Paper: [You Only Learn One Representation: Unified Network for Multiple Tasks](https://arxiv.org/pdf/2105.04206.pdf)
 <br> Code: [WongKinYiu](https://github.com/WongKinYiu/yolor)
 
-
+7. SSD (Single Shot MultiBox Object Detector)
+<br> Paper: [SSD: Single Shot MultiBox Detector](https://arxiv.org/pdf/1512.02325v5.pdf)
+<br> Code: [SSD.Pytorch](https://github.com/amdegroot/ssd.pytorch/tree/5b0b77faa955c1917b0c710d770739ba8fbff9b7), [SSD.Tensorflow](https://github.com/balancap/SSD-Tensorflow), [SSD.MobileNet](https://github.com/abhileshborode/SSD-MobileNet), [SSD](https://github.com/weiliu89/caffe/tree/ssd)
+<br> [Papers With Code](https://paperswithcode.com/method/ssd)
