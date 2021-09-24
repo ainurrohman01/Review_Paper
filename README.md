@@ -52,3 +52,9 @@ Review paper ini berisi ulasan paper tentang Artificial Intelligence (Computer V
 <br> Paper: [SSD: Single Shot MultiBox Detector](https://arxiv.org/pdf/1512.02325v5.pdf)
 <br> Code: [SSD.Pytorch](https://github.com/amdegroot/ssd.pytorch/tree/5b0b77faa955c1917b0c710d770739ba8fbff9b7), [SSD.Tensorflow](https://github.com/balancap/SSD-Tensorflow), [SSD.MobileNet](https://github.com/abhileshborode/SSD-MobileNet), [SSD](https://github.com/weiliu89/caffe/tree/ssd)
 <br> [Papers With Code](https://paperswithcode.com/method/ssd)
+
+
+<br>
+
+**Architecture**
+1. [MobileNets: Efficient Convolutional Neural Networks for Mobile VisionApplications](https://arxiv.org/pdf/1704.04861v1.pdf), Code: [MobileNet.py](https://github.com/tensorflow/tensorflow/blob/v2.4.1/tensorflow/python/keras/applications/mobilenet.py), [Papers With Code](https://paperswithcode.com/paper/mobilenets-efficient-convolutional-neural)
